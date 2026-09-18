@@ -1,4 +1,5 @@
 class Emp1{
-int eNo=123;
-String eName="kushal";
+  int eNo=123;
+  String eName="kushal";
+  double sal=20000.00;
 }
